@@ -1,6 +1,6 @@
 ### GET /course_assessment_details
 Realiza una solicitud GET para recuperar todos los detalles de la evaluación del curso.
-![](insert_image_url_here)
+![](img/details.jpg)
 
 
 ### GET /course_assessment_details/{id}
