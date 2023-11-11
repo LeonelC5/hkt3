@@ -20,5 +20,5 @@ Realiza una solicitud PUT para actualizar los detalles de la evaluación del cur
 
 ### DELETE /course_assessment_details/{id}
 Realiza una solicitud DELETE para eliminar los detalles de la evaluación del curso identificados por `{id}`.
-![](delete.jpg)
+![](img/delete.jpg)
 
