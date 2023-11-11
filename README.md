@@ -1,6 +1,6 @@
 ### GET /course_assessment_details
 Realiza una solicitud GET para recuperar todos los detalles de la evaluación del curso.
-![](img/details.jpg)
+![](img/getdetails.jpg)
 
 
 ### GET /course_assessment_details/{id}
@@ -9,7 +9,7 @@ Realiza una solicitud GET para obtener detalles específicos de la evaluación d
 
 ### POST /course_assessment_details
 Realiza una solicitud POST para crear nuevos detalles de la evaluación del curso.
-![](insert_image_url_here)
+![](img/details.jpg)
 
 ### PUT /course_assessment_details/{id}
 Realiza una solicitud PUT para actualizar los detalles de la evaluación del curso identificados por `{id}`.
