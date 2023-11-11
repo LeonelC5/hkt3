@@ -1,3 +1,6 @@
+
+### PARA ESTA HKT3 HEMOS UTILIZADO POSTMAN PARA LOS REQUEST Y ESTO FUE LO QUE REALIZAMOS
+
 ### GET /course_assessment_details
 Realiza una solicitud GET para recuperar todos los detalles de la evaluación del curso.
 ![](img/getdatails.jpg)
@@ -13,9 +16,9 @@ Realiza una solicitud POST para crear nuevos detalles de la evaluación del curs
 
 ### PUT /course_assessment_details/{id}
 Realiza una solicitud PUT para actualizar los detalles de la evaluación del curso identificados por `{id}`.
-![](insert_image_url_here)
+![](img/put.jpg)
 
 ### DELETE /course_assessment_details/{id}
 Realiza una solicitud DELETE para eliminar los detalles de la evaluación del curso identificados por `{id}`.
-![](insert_image_url_here)
+![](delete.jpg)
 
